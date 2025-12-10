@@ -39,5 +39,5 @@ An interactive **Super Shop Dashboard** built with **Streamlit**. This dashboard
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/super-shop-dashboard.git
+git clone https://github.com/Arif-miad/super-shop-admin-dashboard
 cd super-shop-dashboard
